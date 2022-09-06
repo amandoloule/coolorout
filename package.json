@@ -1,0 +1,11 @@
+{
+  "name": "coloredout",
+  "version": "1.0.0",
+  "description": "A simple console application that prints the input text on a colored output text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amando L. Leal",
+  "license": "ISC"
+}
