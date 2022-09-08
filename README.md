@@ -1,6 +1,6 @@
 # coolorout
 
-Output color messages to the console.
+A simple console application that prints the input text on a colored output text.
 
 Install: `npm install coolorout --global`
 
