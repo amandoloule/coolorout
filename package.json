@@ -9,8 +9,8 @@
   "scripts": {
   },
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "git",
+    "url": "git+https://github.com/amandoloule/coolorout.git"
   },
   "keywords": [
     "console",
@@ -22,7 +22,7 @@
   "author": "Amando L. Leal",
   "license": "MIT",
   "bugs": {
-
+    "url": "https://github.com/amandoloule/coolorout/issues"
   },
   "dependencies": {
     "chalk": "^5.0.1"
